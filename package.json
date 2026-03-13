@@ -1,0 +1,20 @@
+{
+  "name": "ads_vsc_camasots_atenea",
+  "version": "1.0.0",
+  "description": "atenea agent images",
+  "homepage": "https://github.com/ggdj4496/ADS_VSC_CAMASOTS_ATENEA#readme",
+  "bugs": {
+    "url": "https://github.com/ggdj4496/ADS_VSC_CAMASOTS_ATENEA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggdj4496/ADS_VSC_CAMASOTS_ATENEA.git"
+  },
+  "license": "ISC",
+  "author": "GGDJ",
+  "type": "commonjs",
+  "main": "ATENEA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
